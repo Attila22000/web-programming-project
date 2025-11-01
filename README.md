@@ -1,29 +1,5 @@
-# Exercise 5: Readme.md
 
-***Welcome to the task README!***
-
-- You are required to create ´Readme.md´ in your project directory to document your activities throughout the project's
-  lifecycle.
-- You will regularly update it to monitor the ongoing development of the project.
-
-- You will start by outlining the planned features, task assignments to team members and document the evolving progress
-  of your work.
-
-- Below, you will find an example to help you get started. Feel free to customize it to match your specific requirements
-  and needs.
-
-# Project Name - Team Number
-
-A brief description of your web development project.
-
-## Table of Contents
-
-- [Features](#features)
-- [Database Tables](#database-tables)
-- [Created Forms](#created-forms)
-- [Created Tables](#created-tables)
-
----
+#Web programming project - Amici Ristorante website
 
 ## Features
 
