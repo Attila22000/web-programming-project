@@ -1,5 +1,5 @@
 
-#Web programming project - Amici Ristorante website
+# Web programming project - Amici Ristorante website
 
 ## Features
 
